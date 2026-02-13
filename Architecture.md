@@ -366,6 +366,19 @@ Chaque étape utilise une **clé de cache** (`_lastFilterKey`, `_lastSortKey`) p
                    └────────────┘  └────────────┘  └────────────┘
 ```
 
+
+---
+
+NFP_Full_Page_App.app-meta.xml  (Lightning Application)
+    │
+    ├── Custom Tab (nfpFullPageApp.tab-meta.xml)
+    │   → Ajouté manuellement dans Navigation Items de l'app
+    │   → Pointe vers le composant LWC nfpFullPageApp
+    │
+    └── FlexiPage (NFP_Full_Page_App.flexipage-meta.xml)
+        → Contient l'instance de c:nfpFullPageApp
+        → Assignée comme page d'accueil de l'app
+        
 ---
 
 ## 8. Inventaire des fichiers
