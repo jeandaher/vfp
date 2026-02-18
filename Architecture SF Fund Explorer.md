@@ -1,9 +1,3 @@
-Parfait Jean — je te prépare maintenant **un document d’architecture complet Salesforce + ClickHouse**, propre, structuré, réutilisable tel quel dans une spec technique ou un dossier d’architecture.
-
-Je le formule comme un **document professionnel**, clair, hiérarchisé, et directement exploitable.
-
----
-
 # **📘 DOCUMENT D’ARCHITECTURE — Fund Explorer Salesforce + ClickHouse**
 
 ## **1. Objectif du système**
