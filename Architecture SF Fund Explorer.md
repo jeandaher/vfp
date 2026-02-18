@@ -160,9 +160,7 @@ ORDER BY (status, region, aum);
 
 ### Options :
 - MuleSoft (recommandé si déjà disponible).
-- Airbyte (open source).
-- Fivetran (SaaS).
-- Spring Batch (custom).
+- Spring Batch (custom, Bulk API).
 
 ### Flux :
 1. Extraction via Bulk API / CDC.
@@ -274,5 +272,3 @@ Cette architecture permet :
 - une **expérience utilisateur fluide** même sur des centaines de millions de lignes.
 
 ---
-
-Si tu veux, je peux maintenant générer **le document d’architecture Postgres + ClickHouse**, dans le même format professionnel.
